@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "3cbd08e1e5aa30b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d8c353687fb9629",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb31607821ed0364",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fdee0cc2003e28fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "0edb8ad489281407",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bdbe7176ea0b2976",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "aa5b7bd8abf31186",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "4d2d9d86b4406b54",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "bd4eeea73f8f3caf",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe4d5836a5920454",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1787e6da7408474b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ПЭ/Лаб 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Лаб 1"
+            }
+          },
+          {
+            "id": "0a905a9bfa4f38ca",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ПЭ/Лаб 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Лаб 1"
+            }
+          },
+          {
+            "id": "295712e49221997b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "a2039cc9cbca31f6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ПЭ/Лаб 1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Лаб 1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "fb31607821ed0364",
+  "lastOpenFiles": [
+    "ДЕВОПС/лр 1.md",
+    "sem8/ЦОС.zip",
+    "sem8/ПЭ.rar",
+    "sem8/Pasted image 20250325220749.png",
+    "sem8/Pasted image 20250325220745.png",
+    "sem8/Pasted image 20250325220740.png",
+    "sem8/Pasted image 20250325220734.png",
+    "sem8/Pasted image 20250325220729.png",
+    "sem8/Pasted image 20250325220725.png",
+    "sem8/Pasted image 20250325220711.png",
+    "sem8/Pasted image 20250325220615.png",
+    "sem8/Pasted image 20250325220601.png",
+    "sem8/Pasted image 20250325220335.png",
+    "sem8/ЭПИ/лр 1.md",
+    "sem8/ЭПИ",
+    "sem8/ЦОС/лр3.md",
+    "sem8/ЦОС/лр1.md",
+    "sem8/ЦОС/лр2.md",
+    "sem8/ЦОС/img",
+    "sem8/ЦОС",
+    "sem8/ПЭ/ПЭ.md",
+    "sem8/ПЭ/Лаб 1.md",
+    "sem8/ПЭ/Лек 1.md",
+    "sem8/ПЭ/img",
+    "sem8/ПЭ",
+    "sem8/ДЕВОПС/лр 1.md",
+    "sem8/ДЕВОПС",
+    "sem8/README.md",
+    "sem8",
+    "ЭПИ/лр 1.md",
+    "ДЕВОПС",
+    "ЦОС/лр1.md",
+    "ЦОС/лр3.md",
+    "ЦОС/лр2.md",
+    "ПЭ/Лаб 1.md",
+    "ПЭ/Лек 1.md",
+    "ПЭ/ПЭ.md",
+    "Добро пожаловать.md"
+  ]
+}
